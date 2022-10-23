@@ -1,0 +1,1 @@
+gps aexnsagent | select name, starttime

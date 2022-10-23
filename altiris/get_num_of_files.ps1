@@ -1,0 +1,1 @@
+Write-output ( Get-ChildItem c:\MyFolder | Measure-Object ).Count;

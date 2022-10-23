@@ -1,0 +1,1 @@
+write-output (Get-ChildItem -path C:\MyFolder -recurse | Measure-Object -property length -sum ).sum

@@ -1,0 +1,1 @@
+gps notepad | select name, starttime
